@@ -141,7 +141,7 @@ AD8232 ECG Sensor
 
 ```bash
 git clone https://github.com/Alokshukla18/ECG_Project.git
-cd YOUR_REPOSITORY
+cd ECG_Project
 ```
 
 ### Install Required Packages

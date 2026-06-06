@@ -247,15 +247,15 @@ BPM = \frac{60}{RR\ Interval}
 
 ### System Architecture
 
-![System Architecture](image\Pic.png)
+![System Architecture](image/Pic.png)
 
 ### ECG Dashboard
 
-![Dashboard](image\Screenshot 2026-05-31 220203.png)
+![Dashboard](image/Screenshot 2026-05-31 220203.png)
 
 ### Signal Processing Pipeline
 
-![Signal Processing](image\output.png)
+![Signal Processing](image/output.png)
 
 ---
 

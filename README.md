@@ -251,7 +251,7 @@ BPM = \frac{60}{RR\ Interval}
 
 ### ECG Dashboard
 
-![Dashboard](image/Screenshot 2026-05-31 220203.png)
+![Dashboard](image/Screenshot%202026-05-31%20220203.png)
 
 ### Signal Processing Pipeline
 
